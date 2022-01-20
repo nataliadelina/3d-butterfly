@@ -6,7 +6,7 @@ Check it out here: https://nataliadelina.github.io/3d-butterfly/
 
 ### Preview
 
-![screenshot](src/assets/img/screenshot-butterfly.png)
+![screenshot](./public/screenshot-butterfly.png)
 
 ### Live Demo
 
