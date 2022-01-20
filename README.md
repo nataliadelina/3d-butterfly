@@ -8,7 +8,6 @@ Check it out here: https://nataliadelina.github.io/3d-butterfly/
 
 ![screenshot](./src/assets/img/screenshot-butterfly.png)
 
-
 ### Live Demo
 
 [visit website](https://nataliadelina.github.io/3d-butterfly/)
